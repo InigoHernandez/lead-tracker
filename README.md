@@ -2,6 +2,9 @@
 
 A lightweight Chrome browser extension for tracking and managing leads by saving URLs. Perfect for sales professionals, marketers, and anyone who needs to quickly capture and organize web links.
 
+<img width="436" height="270" alt="Lead TRacker Chrome Extension" src="https://github.com/user-attachments/assets/bd3c7404-230a-4e6e-962c-496ce7abaa21" />
+
+
 ## Features
 
 - **Manual URL Input**: Save leads by typing URLs directly into the extension
